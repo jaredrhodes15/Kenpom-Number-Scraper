@@ -1,5 +1,6 @@
-/* .jumbotron {
-  background-image: url("../img/onion-farm.jpg");
+.jumbotron {
+  background-image: url("../img/numbers.jpg");
+  font-size: larger;
   background-size: cover;
   text-align: center;
 }
@@ -10,6 +11,6 @@
 }
 
 body {
-  background-image: url("../img/background-img.jpg");
+  background-image: url("../img/numbers.jpg");
   background-repeat: repeat;
 } */
